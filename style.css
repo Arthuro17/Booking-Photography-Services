@@ -1,0 +1,69 @@
+.banner {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/banner.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner1 {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/banner1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner2 {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/banner2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner3 {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/banner3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner4 {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/slide1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.banner5 {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/slide2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.banner6 {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/slide3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner7 {
+  height: 70vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(images/thankyou.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.hovered-card {
+  transition: 0.3s;
+}
+
+.hovered-card:hover {
+  transform: scale(1.1);
+}
